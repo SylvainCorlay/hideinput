@@ -1,0 +1,3 @@
+pip install
+jupyter nbextension install --py --user hideinput
+jupyter nbextension enable --py --user hideinput
